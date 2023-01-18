@@ -1,9 +1,14 @@
-A repository containing descriptions of AiCore tasks, skills required to tackle them and codes that complete them. 
+A simple python script that allows the user to play rock paper scissors with the computer using user's camera as input for user decision.
 
+# Project Description
 
-# AiCore Computer Vision Project Documentation
+You are stranded on an island with no friends. Assuming you had friends back home, you start to feel a bit lonely. You seem to have all your essential needs covered except now you are bored. You have a laptop though, with solar-panels to power up the laptop. Since you are a newbie to python programming, you decide to develop a very simple game: Rock, Paper, Scissors. 
 
-> Computer Vision Project. 
+skills used: python
+
+## This is part of AiCore Projects
+
+I describe the challenges and hurdles that I have overcome throughout the process of developing this script. 
 
 ## Milestone 1: Set up the environment
 
